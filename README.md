@@ -1,2 +1,2 @@
 # webpack-start
-Example webpack settings
+Example of webpack settings
